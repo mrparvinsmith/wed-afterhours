@@ -12,3 +12,5 @@ while (index2 < group2.length) {
   console.log(group2[index2]);
   index2 ++;
 }
+
+var group3 = ["Sean", "Mari", "Carlos", "Eric", "Evan"]
